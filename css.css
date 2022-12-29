@@ -1,0 +1,54 @@
+.oke {color: blue;text-align: right;margin-right:15px ;text-align:right;}
+body {background:white;}
+
+.gambarback {background-image: url('gambar/screen3-01.jpg');width: 100%;height: 650px;
+    opacity:100%;zoom:60%;}
+	
+.bioback {background-image: url('gambar/bio background.jpg');width: 100%;height: 1200px;
+    opacity:100%;zoom:60%;}
+	
+h1 {font-size:80px;font-family:"Myriad Pro";margin-left:15px; }
+
+h2 {font-size:80px;}
+
+.gambarback p {font-size:30px;}
+.gambarback h2{position:bottom;margin-top:100px;margin-left:15px;}
+
+.headercontent ul li{text-align:center;display : inline; }
+
+section{min-height:100px;}
+.content{min-height:1000px;}
+.content img{zoom:40%;}
+.header img {zoom:30%;}
+.header container {background:white;}
+.headercontent a{font-size:30px}
+
+.contenthome img {zoom:20%;}
+.contenthome {min-height:1200px;}
+
+.contentmural img{zoom:20%;}
+.contentmural {min-height:700px;}
+.shop{background-image: url('gambar/baju limited edition.jpg');height: 300px;
+    opacity:100%;zoom:150%;}
+.shop h1{text-align:center;color:White; margin-top:150px}
+.mural{background-image: url('gambar/mural-02.jpg');height: 500px;
+    opacity:100%;zoom:70%;}
+.Drawing{background-image: url('gambar/sketsa-05.jpg');height: 500px;
+    opacity:100%;zoom:70%;top:5%;}
+.Digital{background-image: url('gambar/flat design-01.jpg');height: 500px;
+    opacity:100%;zoom:70%;top:5%;}
+
+.Login {margin-top:9%;}
+.login button {}
+
+.footer {background:#F6F6F6;}
+.footer img{zoom:5%}
+.contact {min-height:700px;}
+.contentbio img{zoom:10%}
+
+.headshop{background-image: url('gambar/baju kucing - draft 3.jpg');height: 500px;
+    opacity:100%;zoom:80%;top:5%;}
+	
+p{font-size:20px;}
+
+
